@@ -1,7 +1,6 @@
 [package]
-name = "rust-to-cpp"
+name = "rust-to-fortran"
 version = "0.1.0"
-authors = ["Petr Kozelka <pkozelka@gmail.com>"]
 build = "build.rs"
 
 [dependencies]
